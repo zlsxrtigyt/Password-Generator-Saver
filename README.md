@@ -1,2 +1,3 @@
 # Password-Generator-Saver
-This Programm Generates and saves the Passwords in a txt
+This programm generates and saves passwords.
+-help for help
